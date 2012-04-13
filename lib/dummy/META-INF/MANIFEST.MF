@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: release
+Build-Jdk: 1.6.0_26
+Package: org.neo4j.shell
+Implementation-Title: Neo4j - Generic shell
+Implementation-Version: 1.6.1
+Implementation-Vendor-Id: org.neo4j
+Implementation-Vendor: The Neo4j Graph Database Project
+Main-Class: org.neo4j.shell.StartClient
+Agent-Class: org.neo4j.shell.StartClient
+Url: http://neo4j.org/
+Class-Path: neo4j-kernel-1.6.1.jar neo4j-index-1.6.1.jar lucene-core-3
+ .1.0.jar lucene-core-3.1.0.jar jta-1.1.jar geronimo-jta_1.1_spec-1.1.
+ 1.jar jline-0.9.94.jar
+                 org.apache.servicemix.bundles.jline-0.9.94_1.jar
+

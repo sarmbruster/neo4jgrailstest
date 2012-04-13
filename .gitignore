@@ -1,0 +1,4 @@
+*.i*
+*.log
+target
+data
